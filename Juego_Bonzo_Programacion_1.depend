@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1730508709 source:/home/niki/Escritorio/Juego_Bonzo_Programacion_1/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"mostrarDados.h"
+	"juego.h"
+	"creditos.h"
+
+1730507607 /home/niki/Escritorio/Juego_Bonzo_Programacion_1/mostrarDados.h
+	<iostream>
+
+1730500813 /home/niki/Escritorio/Juego_Bonzo_Programacion_1/juego.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"mostrarDados.h"
+
+1730505521 /home/niki/Escritorio/Juego_Bonzo_Programacion_1/creditos.h
+	<iostream>
+
+1731252867 source:c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 2\juego_bonzo_programacion_utn_grupo_9\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"juego.h"
+
+1731292295 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 2\juego_bonzo_programacion_utn_grupo_9\juego.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"mostrarDados.h"
+	"creditos.h"
+	"reglas.h"
+
+1731122176 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 2\juego_bonzo_programacion_utn_grupo_9\mostrardados.h
+	<iostream>
+
+1731255423 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 2\juego_bonzo_programacion_utn_grupo_9\creditos.h
+	<iostream>
+
+1731253836 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 2\juego_bonzo_programacion_utn_grupo_9\reglas.h
+	<iostream>
+
+1731367744 source:c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 7\juego_bonzo_programacion_utn_grupo_9\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"menu.h"
+
+1731381845 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 7\juego_bonzo_programacion_utn_grupo_9\juego.h
+	<iostream>
+	"mostrarEnPantalla.h"
+	"estadisticas.h"
+
+1731367612 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 7\juego_bonzo_programacion_utn_grupo_9\creditos.h
+	<iostream>
+	"mostrarEnPantalla.h"
+
+1731367612 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 7\juego_bonzo_programacion_utn_grupo_9\reglas.h
+	<iostream>
+
+1731367390 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 7\juego_bonzo_programacion_utn_grupo_9\mostrarenpantalla.h
+	<iostream>
+
+1731379856 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 7\juego_bonzo_programacion_utn_grupo_9\estadisticas.h
+	<iostream>
+	"mostrarEnPantalla.h"
+
+1731381973 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 7\juego_bonzo_programacion_utn_grupo_9\menu.h
+	<iostream>
+	"juego.h"
+	"menu.h"
+	"mostrarEnPantalla.h"
+	"creditos.h"
+	"reglas.h"
+	"estadisticas.h"
+
+1731367744 source:c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 9\juego_bonzo_programacion_utn_grupo_9\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"menu.h"
+
+1731381973 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 9\juego_bonzo_programacion_utn_grupo_9\menu.h
+	<iostream>
+	"juego.h"
+	"menu.h"
+	"mostrarEnPantalla.h"
+	"creditos.h"
+	"reglas.h"
+	"estadisticas.h"
+
+1731452787 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 9\juego_bonzo_programacion_utn_grupo_9\juego.h
+	<iostream>
+	"mostrarEnPantalla.h"
+	"estadisticas.h"
+
+1731367390 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 9\juego_bonzo_programacion_utn_grupo_9\mostrarenpantalla.h
+	<iostream>
+
+1731379856 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 9\juego_bonzo_programacion_utn_grupo_9\estadisticas.h
+	<iostream>
+	"mostrarEnPantalla.h"
+
+1731367612 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 9\juego_bonzo_programacion_utn_grupo_9\creditos.h
+	<iostream>
+	"mostrarEnPantalla.h"
+
+1731444561 c:\users\marcos\desktop\utn frgp (tup)\1er cuatrimestre\programación i\tp integrador\version 9\juego_bonzo_programacion_utn_grupo_9\reglas.h
+	<iostream>
+
