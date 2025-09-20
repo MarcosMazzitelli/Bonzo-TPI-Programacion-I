@@ -19,6 +19,9 @@ Este es el repositorio para el trabajo integrador del juego de Bonzo, para Progr
 1. Se lanza un dado para determinar qué jugador comienza:
    - Impar: comienza el jugador 1.
    - Par: comienza el jugador 2.
+![Descripción](./imagenes/Img_Inicio.png)
+
+
 
 ### Desarrollo del Juego
 - **Rondas:** Cada jugador juega 6 rondas.
