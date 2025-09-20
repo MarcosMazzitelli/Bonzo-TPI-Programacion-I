@@ -19,7 +19,7 @@ Este es el repositorio para el trabajo integrador del juego de Bonzo, para Progr
 1. Se lanza un dado para determinar qué jugador comienza:
    - Impar: comienza el jugador 1.
    - Par: comienza el jugador 2.
-![Descripción](./imagenes/Img_Inicio.png)
+![Descripción](./Imagenes/Img_Inicio.png)
 
 
 
@@ -28,6 +28,7 @@ Este es el repositorio para el trabajo integrador del juego de Bonzo, para Progr
 - **Lanzamiento de Dados:**
   - Cada jugador lanza tres dados por turno.
   - Si no hay número prohibido, se suman los valores y el jugador decide si seguir lanzando o plantarse.
+![Descripción](./Imagenes/Img_Tirada.png)
 
 - **Número Prohibido:**
   - Si aparece, el jugador pierde todos los puntos de esa ronda.
@@ -38,6 +39,7 @@ Este es el repositorio para el trabajo integrador del juego de Bonzo, para Progr
   - Si un jugador lanza tres dados iguales que no sean el número prohibido, gana un "Bonzo, ve a dormir" y puede:
     - Quitarle un dado al oponente.
     - Duplicar los puntos obtenidos.
+![Descripción](./Imagenes/Img_Bonus.png)
 
 ### Finalización del Juego
 Al finalizar las 6 rondas, se suman los puntos y se otorgan puntos adicionales por hitos:
@@ -46,6 +48,7 @@ Al finalizar las 6 rondas, se suman los puntos y se otorgan puntos adicionales p
 - Ronda con mayor cantidad de lanzamientos exitosos: 5 puntos.
 
 En caso de empate, ambos jugadores reciben los puntos correspondientes. El jugador con el puntaje total más alto será el ganador. Si hay empate total, gana quien haya conseguido más “Bonzo, ve a dormir”.
+![Descripción](./Imagenes/Img_FinJuego.png)
 
 ## Actividad
 Se solicita desarrollar el juego "Bonzo" en C/C++ utilizando un proyecto de aplicación de consola. El juego debe contar con un menú principal con las siguientes opciones:
@@ -56,6 +59,7 @@ Se solicita desarrollar el juego "Bonzo" en C/C++ utilizando un proyecto de apli
 
 ### Opción Estadísticas
 - Mostrar el nombre del jugador con más puntos y su puntaje.
+![Descripción](./Imagenes/Img_Ranking.png)
 
 ### Opción Créditos
 - Incluir los nombres y legajos de los integrantes del equipo.
